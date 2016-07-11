@@ -1,6 +1,9 @@
 # FreeCAD-Omniwheel
 Modelo en FreeCAD capaz de generar ruedas tipo omniwheel.
 --------
+<p align="center">
+<img src="imagenes/render1.png" align = "center">
+</p>
 Descripcion
 --------
 Utiliza el banco de trabajo Spreadsheet para la referencia de variables y calculo de parametros utilizados en el modelo.
